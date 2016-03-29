@@ -1,0 +1,16 @@
+{
+  "name": "webstorm-vanilla",
+  "version": "0.0.1",
+  "description": "demonstration of debug capabilities with vanilla JS project",
+  "author": "martynas",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "^1.4.8"
+  },
+  "dependencies": {
+    "angular": "^1.5.3"
+  },
+  "scripts": {
+    "begin": "http-server app"
+  }
+}
